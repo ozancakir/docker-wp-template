@@ -1,4 +1,4 @@
-# Wordpress Setup Template
+# Wordpress Template
 
 Simple Wordpress docker-compose template for one-line wordpress website setup.
 
